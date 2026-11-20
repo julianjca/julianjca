@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="230" viewBox="0 0 860 230" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<style>.t{fill:#EDEAE4}.m{fill:#8F8B84}.a{fill:#FF6B52}.b{fill:#3A3835}
+.serif{font-family:Georgia,'Times New Roman',serif}
+.g{transform-box:fill-box;transform-origin:bottom;animation:g .9s cubic-bezier(.2,.8,.2,1) backwards}
+@keyframes g{from{transform:scaleY(0)}}</style>
+<rect x=".5" y=".5" width="859" height="229" rx="14" fill="#121212" stroke="#2A2927"/>
+<text x="40" y="50" font-size="13" letter-spacing="2" class="m">LAST 12 MONTHS · BY WEEKDAY</text>
+<rect class="a g" style="animation-delay:0.00s" x="51.6" y="159.8" width="41.1" height="10.2" rx="3"/>
+<text x="72.1" y="190" font-size="11" text-anchor="middle" class="a">Sun</text>
+<rect class="b g" style="animation-delay:0.07s" x="115.9" y="107.2" width="41.1" height="62.9" rx="3"/>
+<text x="136.4" y="190" font-size="11" text-anchor="middle" class="m">Mon</text>
+<rect class="b g" style="animation-delay:0.14s" x="180.1" y="93.7" width="41.1" height="76.3" rx="3"/>
+<text x="200.7" y="190" font-size="11" text-anchor="middle" class="m">Tue</text>
+<rect class="b g" style="animation-delay:0.21s" x="244.4" y="103.4" width="41.1" height="66.6" rx="3"/>
+<text x="265.0" y="190" font-size="11" text-anchor="middle" class="m">Wed</text>
+<rect class="t g" style="animation-delay:0.28s" x="308.7" y="83.3" width="41.1" height="86.7" rx="3"/>
+<text x="329.3" y="190" font-size="11" text-anchor="middle" class="m">Thu</text>
+<rect class="b g" style="animation-delay:0.35s" x="373.0" y="108.8" width="41.1" height="61.2" rx="3"/>
+<text x="393.6" y="190" font-size="11" text-anchor="middle" class="m">Fri</text>
+<rect class="a g" style="animation-delay:0.42s" x="437.3" y="163.7" width="41.1" height="6.3" rx="3"/>
+<text x="457.9" y="190" font-size="11" text-anchor="middle" class="a">Sat</text>
+<text x="520" y="96" font-size="22" class="t serif">Thursdays ship<tspan class="a">.</tspan></text>
+<text x="520" y="122" font-size="12.5" class="m">Weekends get 4% of my commits.</text>
+<text x="520" y="141" font-size="12.5" class="m">The rest go to Riftbound and OPTCG.</text>
+<text x="520" y="172" font-size="11" class="m">best day: <tspan class="t">84 on Oct 22</tspan></text>
+</svg>
